@@ -8,6 +8,8 @@ I also dabble in Ruby and Clojure occasionally.
 
 When I'm not programming I'm probably playing a game. I'm fond of Euro-style board games like Catan and Azul.
 
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/ry-zhao/)!
+
 # Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
