@@ -1,6 +1,6 @@
-# Hi, I’m Ryan Zhao! 
+# Thanks for dropping by!
 
-I'm a linguist turned full-stack web developer and JavaScript fanatic. 
+I'm Ryan Zhao, a linguist turned full-stack web developer and JavaScript fanatic. 
 
 I have experience with building web apps using HTML, CSS, ReactJS, and Node.js.
 
